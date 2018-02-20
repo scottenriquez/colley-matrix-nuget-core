@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColleyMatrix", "ColleyMatrix\ColleyMatrix.csproj", "{05FC24D6-3C73-4B35-9786-8836EA1EE3F5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColleyMatrix.Tests.Unit", "ColleyMatrix.Tests.Unit\ColleyMatrix.Tests.Unit.csproj", "{4E8961E1-329E-4CF5-85A0-B2B0A37DA3C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,5 +15,9 @@ Global
 		{05FC24D6-3C73-4B35-9786-8836EA1EE3F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05FC24D6-3C73-4B35-9786-8836EA1EE3F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05FC24D6-3C73-4B35-9786-8836EA1EE3F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E8961E1-329E-4CF5-85A0-B2B0A37DA3C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E8961E1-329E-4CF5-85A0-B2B0A37DA3C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E8961E1-329E-4CF5-85A0-B2B0A37DA3C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E8961E1-329E-4CF5-85A0-B2B0A37DA3C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
