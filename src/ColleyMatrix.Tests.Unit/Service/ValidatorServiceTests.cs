@@ -6,7 +6,7 @@ using FakeItEasy;
 using FluentAssertions;
 using NUnit.Framework;
 
-namespace ColleyMatrix.Tests.Service
+namespace ColleyMatrix.Tests.Unit.Service
 {
     [TestFixture]
     public class ValidatorServiceTests
