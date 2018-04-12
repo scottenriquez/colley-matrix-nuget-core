@@ -5,4 +5,4 @@ solution: ./src/ColleyMatrix.sln
 install:
   - dotnet restore ./src/ColleyMatrix.sln
 script:
-  - dotnet test src/ColleyMatrix.Tests.Unit.Non
+  - dotnet test
