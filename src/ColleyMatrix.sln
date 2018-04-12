@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColleyMatrix", "ColleyMatri
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColleyMatrix.Tests.Unit", "ColleyMatrix.Tests.Unit\ColleyMatrix.Tests.Unit.csproj", "{4E8961E1-329E-4CF5-85A0-B2B0A37DA3C9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColleyMatrix.Tests.Unit.Non", "ColleyMatrix.Tests.Unit.Non\ColleyMatrix.Tests.Unit.Non.csproj", "{F78AE82E-F7BA-44A0-872A-2EE43EC6F625}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,5 +21,9 @@ Global
 		{4E8961E1-329E-4CF5-85A0-B2B0A37DA3C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E8961E1-329E-4CF5-85A0-B2B0A37DA3C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E8961E1-329E-4CF5-85A0-B2B0A37DA3C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F78AE82E-F7BA-44A0-872A-2EE43EC6F625}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F78AE82E-F7BA-44A0-872A-2EE43EC6F625}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F78AE82E-F7BA-44A0-872A-2EE43EC6F625}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F78AE82E-F7BA-44A0-872A-2EE43EC6F625}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

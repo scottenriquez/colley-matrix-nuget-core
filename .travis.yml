@@ -1,0 +1,9 @@
+language: csharp
+mono: none
+dotnet: 2.0.0
+solution: ./src/ColleyMatrix.sln
+install:
+  - dotnet restore ./src/ColleyMatrix.sln
+  - nuget install NUnit.Console -Version 3.5.0 -OutputDirectory testrunner
+script:
+  - dotnet test
