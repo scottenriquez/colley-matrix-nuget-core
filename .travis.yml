@@ -3,6 +3,6 @@ mono: none
 dotnet: 2.0.0
 solution: ./src/ColleyMatrix.sln
 install:
-  - dotnet test src/ColleyMatrix.Tests.Unit.Non
+  - dotnet restore ./src/ColleyMatrix.sln
 script:
-  - dotnet test
+  - dotnet test src/ColleyMatrix.Tests.Unit.Non
